@@ -1,4 +1,4 @@
-# circuit_diagram
+# Circuit Diagrams
 This is an interactive notebook with exercises covering quantum circuit diagrams.
 
 ---
